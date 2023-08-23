@@ -1,0 +1,14 @@
+{
+  "name": "xxiii_viii_xxiii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "1": "tsc ./ex1.ts",
+    "2":"tsc ./Copy of rockPaperScisoors.ts",
+    "3":"tsc ./ex2.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
